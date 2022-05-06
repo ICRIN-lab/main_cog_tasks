@@ -18,3 +18,7 @@ os.chdir('../symetry')
 os.system('python symetry.py')
 
 ts_end = time.time()
+
+L = [ts, ts_1, ts_2, ts_3, ts_end]
+print("time stamps : ", L)
+
