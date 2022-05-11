@@ -9,5 +9,5 @@ os.system('python lucifer.py')
 os.chdir('../where_is_tockie')
 os.system('python where_is_tockie.py')
 
-os.chdir('../symetry')
-os.system('python symetry.py')
+os.chdir('../symmetry')
+os.system('python symmetry.py')
